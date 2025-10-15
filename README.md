@@ -1,5 +1,4 @@
 # HTTP-Server
-# HTTP-Server
 # Lab 4.1: HTTP Server - Operating Systems Course
 
 This project builds a C++ HTTP server incrementally across 4 parts, progressing from a simple single-threaded echo server to a multi-threaded HTTP web server that serves static files.
